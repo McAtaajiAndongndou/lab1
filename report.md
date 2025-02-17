@@ -5,3 +5,4 @@ Created a new branch feature/student-details.
 Updated report.md with this documentation.
 Merged changes back to the main branch.
 Deployed index.html to GitHub Pages.git
+FINISHED
